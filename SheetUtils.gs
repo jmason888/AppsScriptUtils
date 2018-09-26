@@ -5,7 +5,7 @@
  */
 /*
  * @repo         https://github.com/jmason888/AppsScriptUtils
- * @date         2018-09-25_{TIME} (date +%Y-%m-%d_%H:%M:%S)
+ * @date         2018-09-25_18:38:23 (date +%Y-%m-%d_%H:%M:%S)
  * @commit       {COMMIT}
  */
 
